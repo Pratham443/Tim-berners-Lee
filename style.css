@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+}
+
+#sect1 {
+    background-color: aquamarine;
+}
+
+.line {
+    height: 5px;
+    background-color: aquamarine;
+}
+
+.menubar {
+    font-family: cursive;
+    position: absolute;
+    cursor: pointer;
+    list-style: none;
+    z-index: 10;
+}
+
+.links {
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    float: left;
+}
+
+.link:hover {
+    background-color: dodgerblue;
+}
